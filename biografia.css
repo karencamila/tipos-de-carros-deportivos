@@ -1,0 +1,44 @@
+*{
+  padding: 0;
+  maring:0;
+
+ }
+
+ body{
+  font-family:"calibri light";
+ }
+ .contenedor{
+  background: #85C1E9;
+  width: 80%;
+  margin: auto;
+   }
+  header{
+       height: 400px;
+       background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJndjDUUaI9rKA6vLCM2KWSoFw6-UcZ6-dHw&s");
+        background-position: center;
+        background-size: cover;
+    }
+    main{
+        background: #FFFFFF;
+        padding: 20px 30px;
+        border: 2px solid #CACFD2;
+    }
+    main .foto{
+    width: 150px;
+    height: 150px;
+    background-color: #85C1E9;
+    border-radius: 50%;
+    margin: -90px 0 20px 0;
+    border: 6px solid #FFFFFF;
+  }
+
+  main .foto img{
+      width: 100%;
+      border-radius: 50%;
+  }
+ 
+   footer{
+        background: #85C1E9;
+        height: 50px;
+
+  }          

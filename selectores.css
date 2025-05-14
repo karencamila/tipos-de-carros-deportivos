@@ -1,0 +1,50 @@
+body{
+font-family:Arial,  sans-serif, Helvetica;
+background:#e8e8e8;
+}
+
+.menu{
+list-style:none;
+padding:0;
+background:#AE9C85;
+width:90%;
+max-width:1000px;
+margin:20px auto;
+}
+
+.menu li{
+display:inline-block;
+text-aling:center;
+}
+.menu li a{
+color:#fff;
+text-decoration:none;
+display:block;
+padding:20px;
+}
+
+.menu li a:hover{
+background: #ef8354;
+}
+body{
+font-family:"comic sans";
+background:url(https://img.remediosdigitales.com/58efe3/chevrolet-camaro-2019-1280-02/840_560.jpg);
+background-repeat:repeat ;
+
+}
+
+h1,p{
+color:#000000;
+text-align:center;
+}
+
+div{
+width:60%;
+height:500px;
+background: #FFFFFF;
+margin:auto;
+}
+.textoRemarcado{
+font-weight:bold;
+font-size:18px;
+} 
